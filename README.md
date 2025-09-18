@@ -9,11 +9,60 @@ I'm a Data Engineer with a passion for building scalable, end-to-end data soluti
 
 Here are some of the key technologies I work with:
 
-| Cloud & IaC | Data Warehousing & Transformation | Orchestration & Ingestion | Languages & Tools |
-| :---- | :---- | :---- | :---- |
-| <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40"/> | <img src="img/redshift.svg" alt="Redshift" width="40"/> | <img src="img/airflow.svg" alt="Airflow" width="40"/> | <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"/> |
-| <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40"/> | <img src="img/dbt.svg" alt="dbt" width="40"/> | <img src="img/lambda.svg" alt="Lambda" width="40"/> | <img src="img/sql.svg" alt="dbt" width="40"/>  |
-| <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/> | <img src="img/iam.svg" alt="S3" width="40"/> | <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40"/> | <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/> |
+<table>
+  <thead>
+    <tr>
+      <th>Cloud & IaC</th>
+      <th>Data Warehousing & Transformation</th>
+      <th>Orchestration & Ingestion</th>
+      <th>Languages & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="img/redshift.svg" alt="Redshift" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="img/airflow.svg" alt="Airflow" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="img/dbt.svg" alt="dbt" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="img/lambda.svg" alt="Lambda" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="img/sql.svg" alt="SQL" width="40"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="img/iam.svg" alt="IAM" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## **🚕 Featured Project: End-to-End NYC Taxi Data Platform**
 
