@@ -69,6 +69,7 @@ Here are some of the key technologies I work with:
 This is a complete, production-grade ELT pipeline that ingests, processes, and analyzes NYC taxi and weather data. The entire cloud infrastructure is automated with Terraform, and the final analysis is presented in a live, interactive dashboard.
 
 * **Live Demo:** [**View the Deployed Streamlit App**](https://nyc-taxi-pipeline-kevinayers.streamlit.app/)
+  - Heads up: This app is deployed on Streamlit's free Community Cloud. If it's been idle, it may take 45-60 seconds to wake up.
 * **Source Code & Documentation:** [**Explore the GitHub Repository**](https://github.com/AyersAuthentic/nyc-taxi-pipeline?tab=readme-ov-file)
 
 This project showcases skills in cloud architecture, data modeling, performance tuning, data quality testing, and CI/CD automation.
