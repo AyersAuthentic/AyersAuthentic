@@ -12,7 +12,7 @@ Here are some of the key technologies I work with:
 | Cloud & IaC | Data Warehousing & Transformation | Orchestration & Ingestion | Languages & Tools |
 | :---- | :---- | :---- | :---- |
 | <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40"/> | <img src="img/redshift.svg" alt="Redshift" width="40"/> | <img src="img/airflow.svg" alt="Airflow" width="40"/> | <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"/> |
-| <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40"/> | <img src="img/dbt.svg" alt="dbt" width="40"/> | <img src="img/lambda.svg" alt="Lambda" width="40"/> | <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40"/> | <img src="img/dbt.svg" alt="dbt" width="40"/> | <img src="img/lambda.svg" alt="Lambda" width="40"/> | <img src="img/sql.svg" alt="dbt" width="40"/>  |
 | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/> | <img src="img/s3.svg" alt="S3" width="40"/> | <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40"/> | <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/> |
 
 ## **🚕 Featured Project: End-to-End NYC Taxi Data Platform**
