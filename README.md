@@ -11,9 +11,9 @@ Here are some of the key technologies I work with:
 
 | Cloud & IaC | Data Warehousing & Transformation | Orchestration & Ingestion | Languages & Tools |
 | :---- | :---- | :---- | :---- |
-| \<img src="https://skillicons.dev/icons%3Fi%3Daws" alt="AWS" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dredshift" alt="Redshift" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dairflow" alt="Airflow" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" alt="Python" width="40"/\> |
-| \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dterraform" alt="Terraform" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddbt" alt="dbt" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlambda" alt="Lambda" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsql" alt="SQL" width="40"/\> |
-| \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker" alt="Docker" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ds3" alt="S3" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgithubactions" alt="GitHub Actions" width="40"/\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit" alt="Git" width="40"/\> |
+| <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40"/> | <img src="https://skillicons.dev/icons?i=redshift" alt="Redshift" width="40"/> | <img src="https://skillicons.dev/icons?i=airflow" alt="Airflow" width="40"/> | <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40"/> | <img src="https://skillicons.dev/icons?i=dbt" alt="dbt" width="40"/> | <img src="https://skillicons.dev/icons?i=lambda" alt="Lambda" width="40"/> | <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/> | <img src="https://skillicons.dev/icons?i=s3" alt="S3" width="40"/> | <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40"/> | <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/> |
 
 ## **🚕 Featured Project: End-to-End NYC Taxi Data Platform**
 
